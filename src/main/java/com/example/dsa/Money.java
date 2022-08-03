@@ -16,6 +16,5 @@ public class Money {
         System.out.println("Simple Intreset for " + amount + " rupees for " + t + " years at intrest " + r + " is: "  + SI + amount); 
     }
 }
-`
 
 
