@@ -10,7 +10,6 @@ public class Changevalue {
         System.out.println( Arrays.toString (arr));
 
     }
-    static void change(int[]nums){
-        nums[11]= 99;
+    static void change(int[]nums) {nums[11]= 99;
     }
 }

@@ -2,7 +2,7 @@ package com.example.dsa;
 
 public class Swap {
     public static void main(String[] args) {
-        String a = "karthik";
+       /* String a = "karthik";
         String b ="srisanth";
         String temp = a;
         a = b;
@@ -21,3 +21,14 @@ public class Swap {
    } */
 // variable is assained to value
 // value never used
+
+        int a = 10;
+        int b = 20;
+        a = b;
+        b = a;
+        System.out.println( a + " " + b );
+    }
+
+}
+
+
