@@ -14,3 +14,6 @@ public class Scope {
     }
 }
 // Block scope = inisalation of value at once but u can change the value
+// loop scope  = anything is initialised outside the block can be initialised inside the block .
+// anything is initialised inside the block can initialised outside the block.
+//but u can't use it
